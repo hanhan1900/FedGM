@@ -5,6 +5,6 @@ https://arxiv.org/abs/2505.02573
 
 ## Requirement
 
-···
+```
 pip install -r requirements.txt
-···
+```
